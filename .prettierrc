@@ -1,0 +1,16 @@
+{
+  "//semi": "точка с запятой",
+  "semi": true,
+  "//singleQuote": "одинарные ковычки",
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "//bracketSpacing": "отступы в {_text_}",
+  "bracketSpacing": true,
+  "//tabwidth": "отступы",
+  "tabwidth": 2,
+  "//printWidth": "ширина строки",
+  "printWidth": 110,
+  "//arrowParens": "скобки в стрелочной функции",
+  "arrowParens": "avoid",
+  "//": ""
+}
